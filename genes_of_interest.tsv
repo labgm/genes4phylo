@@ -1,0 +1,82 @@
+Gene	Function	Marker ID
+alaS	alanine--tRNA ligase	TIGR00344
+cgtA	Obg family GTPase CgtA	TIGR02729
+dnaG	DNA primase	TIGR01391
+dnaX	DNA polymerase III, subunit gamma and tau	TIGR02397
+engA	ribosome-associated GTPase EngA	TIGR03594
+era	GTP-binding protein Era	TIGR00436
+ffh	signal recognition particle protein	TIGR00959
+fmt	methionyl-tRNA formyltransferase	TIGR00460
+frr	ribosome recycling factor	TIGR00496
+ftsY	signal recognition particle-docking protein FtsY	TIGR00064
+gmk	guanylate kinase	TIGR03263
+hisS	histidine--tRNA ligase	TIGR00442
+ileS	isoleucine--tRNA ligase	TIGR00392
+infB	translation initiation factor IF-2	TIGR00487
+infC	translation initiation factor IF-3	TIGR00168
+ksgA	ribosomal RNA small subunit methyltransferase A	TIGR00755
+lepA	elongation factor 4	TIGR01393
+leuS	leucine--tRNA ligase	TIGR00396
+nusA	transcription termination factor NusA	TIGR01953
+nusG	transcription termination/antitermination factor NusG	TIGR00922
+pheS	phenylalanine--tRNA ligase, alpha subunit	TIGR00468
+pheT	phenylalanine--tRNA ligase, beta subunit	TIGR00472
+prfA	peptide chain release factor 1	TIGR00019
+recA	protein RecA	TIGR02012
+rplA	ribosomal protein L1	TIGR01169
+rplB	ribosomal protein L2	TIGR01171
+rplC	ribosomal protein L3	TIGR03625
+rplD	ribosomal protein L4	TIGR03953
+rplE	ribosomal protein L5	PF00281.18
+rplF	ribosomal protein L6	TIGR03654
+rplI	ribosomal protein L9	TIGR00158
+rplJ	ribosomal protein L10	PF00466.19
+rplK	ribosomal protein L11	TIGR01632
+rplL	ribosomal protein L7/L12	TIGR00855
+rplM	ribosomal protein L13	TIGR01066
+rplN	ribosomal protein L14	TIGR01067
+rplO	ribosomal protein L15	TIGR01071
+rplP	ribosomal protein L16	TIGR01164
+rplQ	ribosomal protein L17	TIGR00059
+rplR	ribosomal protein L18	TIGR00060
+rplS	ribosomal protein L19	TIGR01024
+rplT	ribosomal protein L20	TIGR01032
+rplU	ribosomal protein L21	TIGR00061
+rplV	ribosomal protein L22	TIGR01044
+rplW	ribosomal protein L23	PF00276.19
+rplX	ribosomal protein L24	TIGR01079
+rpmA	ribosomal protein L27	TIGR00062
+rpmC	ribosomal protein L29	TIGR00012
+rpmI	ribosomal protein L35	TIGR00001
+rpoA	DNA-directed RNA polymerase, alpha subunit	TIGR02027
+rpoB	DNA-directed RNA polymerase, beta subunit	TIGR02013
+rpsB	ribosomal protein S2	TIGR01011
+rpsC	ribosomal protein S3	TIGR01009
+rpsD	ribosomal protein S4	TIGR01017
+rpsE	ribosomal protein S5	TIGR01021
+rpsF	ribosomal protein S6	TIGR00166
+rpsG	ribosomal protein S7	TIGR01029
+rpsH	ribosomal protein S8	PF00410.18
+rpsI	ribosomal protein S9/S16	PF00380.18
+rpsJ	ribosomal protein S10	TIGR01049
+rpsL	ribosomal protein S12	TIGR00981
+rpsM	ribosomal protein S13	TIGR03631
+rpsO	ribosomal protein S15	TIGR00952
+rpsP	ribosomal protein S16	TIGR00002
+rpsQ	ribosomal protein S17	TIGR03635
+rpsR	ribosomal protein S18	TIGR00165
+rpsS	ribosomal protein S19	TIGR01050
+rpsT	ribosomal protein S20	TIGR00029
+rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase	TIGR00006
+ruvB	holliday junction DNA helicase RuvB	TIGR00635
+secA	preprotein translocase, SecA subunit	TIGR00963
+secY	preprotein translocase, SecY subunit	TIGR00967
+serS	serine--tRNA ligase	TIGR00414
+smpB	SsrA-binding protein	TIGR00086
+tilS	tRNA(Ile)-lysidine synthetase	TIGR02432
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	TIGR00088
+truB	tRNA pseudouridine(55) synthase	TIGR00431
+tsaD	tRNA threonylcarbamoyl adenosine modification protein TsaD	TIGR03723
+tsf	translation elongation factor Ts	TIGR00116
+ybeY	probable rRNA maturation factor YbeY	TIGR00043
+ychF	GTP-binding protein YchF	TIGR00092

@@ -12,6 +12,9 @@ parser.add_argument('--output', type=str, required=True, help='Output directory.
 
 args = parser.parse_args()
 
+genes = pd.read_csv('genes_of_interest.tsv',sep='\t')
+genes_list = genes['Gene'].to_list()
+
 with open(args.genes,'r') as genes:
     genes_list = genes.readlines()
     genes_list = [i.strip('\n') for i in genes_list]

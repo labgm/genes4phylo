@@ -3,7 +3,7 @@ alaS	alanine--tRNA ligase	TIGR00344
 cgtA	Obg family GTPase CgtA	TIGR02729
 dnaG	DNA primase	TIGR01391
 dnaX	DNA polymerase III, subunit gamma and tau	TIGR02397
-engA	ribosome-associated GTPase EngA	TIGR03594
+der	ribosome-associated GTPase EngA	TIGR03594
 era	GTP-binding protein Era	TIGR00436
 ffh	signal recognition particle protein	TIGR00959
 fmt	methionyl-tRNA formyltransferase	TIGR00460
@@ -14,7 +14,7 @@ hisS	histidine--tRNA ligase	TIGR00442
 ileS	isoleucine--tRNA ligase	TIGR00392
 infB	translation initiation factor IF-2	TIGR00487
 infC	translation initiation factor IF-3	TIGR00168
-ksgA	ribosomal RNA small subunit methyltransferase A	TIGR00755
+rsmA	ribosomal RNA small subunit methyltransferase A	TIGR00755
 lepA	elongation factor 4	TIGR01393
 leuS	leucine--tRNA ligase	TIGR00396
 nusA	transcription termination factor NusA	TIGR01953

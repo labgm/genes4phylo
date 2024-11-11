@@ -28,7 +28,7 @@ for file in files:
     for record in SeqIO.parse(file, 'genbank'):
         for feature in record.features:
             if feature.type == 'CDS':
-                if 'gene' in feature.qualifiers:
+                if 'gene' in feature.qualifiers or 'tRNA' in feature.qualifiers:
                     gene = feature.qualifiers['gene'][0]
                     if gene in genes_list:
                         if not os.path.exists(f'{args.output}/{gene}'):
